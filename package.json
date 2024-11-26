@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DevinJohw/is-the-string-devin.git"
+    "url": "git+https://github.com/devinjohw/is-the-string-devin.git"
   },
   "keywords": [
     "devin"
@@ -17,7 +17,7 @@
   "author": "Devin Johw",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DevinJohw/is-the-string-devin/issues"
+    "url": "https://github.com/devinjohw/is-the-string-devin/issues"
   },
-  "homepage": "https://github.com/DevinJohw/is-the-string-devin#readme"
+  "homepage": "https://github.com/devinjohw/is-the-string-devin#readme"
 }
