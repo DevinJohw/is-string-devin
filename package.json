@@ -1,0 +1,23 @@
+{
+  "name": "@devinjohw/is-the-string-devin",
+  "version": "1.0.0",
+  "description": "Is the string \"Devin\"?",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevinJohw/is-the-string-devin.git"
+  },
+  "keywords": [
+    "devin"
+  ],
+  "author": "Devin Johw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevinJohw/is-the-string-devin/issues"
+  },
+  "homepage": "https://github.com/DevinJohw/is-the-string-devin#readme"
+}
