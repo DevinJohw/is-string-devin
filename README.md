@@ -1,1 +1,1 @@
-# is-string-devin
+# is-the-string-devin
